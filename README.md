@@ -8,7 +8,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/MateuszKonatkowski](https://github.com/MateuszKonatkowski)
 
 - 📫 How to reach me **mateuszkonatkowski@gmail.com**
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
