@@ -9,6 +9,7 @@
 - 📫 How to reach me **mateuszkonatkowski@gmail.com**
   
 <p align="left">
+  <img align="right" alt="coding" width="300" height="200"src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
