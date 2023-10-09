@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/MateuszKonatkowski](https://github.com/MateuszKonatkowski)
 - 💬 Ask me about **Java,Selenium**
 - 📫 How to reach me **mateuszkonatkowski@gmail.com**
- <p align="center">
+ <p align="right">
    <b>Connect with me</b>
    <br>
    <br>
