@@ -8,7 +8,7 @@
 - 💬 Ask me about **Java,Selenium**
 - 📫 How to reach me **mateuszkonatkowski@gmail.com**
  <p align="left">
-   Connect with me
+   <b>Connect with me</b>
    <br>
    <br>
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/mateusz-konatkowski/">
