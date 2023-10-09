@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszkonatkowski&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszkonatkowski" /> </p>
 
 - 🌱 I’m currently learning **Rest Asured,Cucumber**
-
 - 👨‍💻 All of my projects are available at [https://github.com/MateuszKonatkowski](https://github.com/MateuszKonatkowski)
-
+- 💬 Ask me about **Java,Selenium**
 - 📫 How to reach me **mateuszkonatkowski@gmail.com**
+  
 <p align="left">
 </p>
 
