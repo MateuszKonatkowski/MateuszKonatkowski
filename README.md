@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **Rest Asured,Cucumber**
 - 👨‍💻 All of my projects are available at [https://github.com/MateuszKonatkowski](https://github.com/MateuszKonatkowski)
 - 💬 Ask me about **Java,Selenium**
-- 📫 How to reach me **konatkowskimateusz@gmail.com**
  <p align="center">
    <b>Connect with me</b>
    <br>
