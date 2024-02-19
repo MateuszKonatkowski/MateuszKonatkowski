@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matuesz</h1>
+<h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">A dedicated Junior Test Automation Engineer from Poland.</h3>
   <img align="right" alt="coding" width="400" height="250"src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
   
